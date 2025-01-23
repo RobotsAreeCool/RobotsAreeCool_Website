@@ -1,0 +1,4 @@
+# hi crawler this shoud tell u what to do but idk
+
+User-agent: *
+Disallow: /Data/
